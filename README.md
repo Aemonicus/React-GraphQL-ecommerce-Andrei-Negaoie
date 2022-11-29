@@ -1,3 +1,9 @@
+# GraphQL Version of React based project
+
+You either use **_GraphQL_**, with **_Apollo_** OR **_Redux_** but not both at the same time
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
